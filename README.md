@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/umanzorurrutia/umanzorurrutia/blob/main/laptop-banner.gif">
+  <img src="https://univcomms.ucsd.edu/_images/homepage/homepage-hero-2.jpg">
 </p>
 
 <h1>:wave: Hello, I'm Jeff!</h1>
@@ -8,11 +8,9 @@
 
 ## About Me
 
-💡 &nbsp;I like to explore new languages and technologies.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at UC San Diego.\
-🌱 &nbsp;I'm on track to learn about the MERN Stack, Artificial Intelligence, Software Development.
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+💡 &nbsp;I like to explore new languages and technologies.</br>
+🎓 &nbsp;I'm currently studying Computer Science and Mathematics at UC San Diego.</br>
+🌱 &nbsp;I'm on track to learn about the MERN Stack, Artificial Intelligence, and Software Development.
 
 ### Tech Stack
 
