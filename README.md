@@ -4,8 +4,6 @@
 
 <h1>:wave: Hello, I'm Jeff!</h1>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
 ## About Me
 
 💡 &nbsp;I like to explore new languages and technologies.</br>
