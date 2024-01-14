@@ -2,9 +2,7 @@
   <img src="https://univcomms.ucsd.edu/_images/homepage/homepage-hero-2.jpg">
 </p>
 
-<h1>:wave: Hello, I'm Jeff!</h1>
-
-## About Me
+<h2>:wave: Hello, I'm Jeff!</h2>
 
 💡 &nbsp;I like to explore new languages and technologies.</br>
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at UC San Diego.</br>
