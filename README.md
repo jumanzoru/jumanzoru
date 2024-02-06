@@ -8,7 +8,7 @@
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at UC San Diego.</br>
 🌱 &nbsp;I'm on track to learn about the MERN Stack, Artificial Intelligence, and Software Development.
 
-### Tech Stack
+<!--### Tech Stack-->
 
 Languages</br>
 
