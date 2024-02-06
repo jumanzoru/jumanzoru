@@ -1,7 +1,6 @@
-<p align="center">
-  <!--<img src="https://univcomms.ucsd.edu/_images/homepage/homepage-hero-2.jpg">-->
+<!--<p align="center">
   <img src="https://theme.zdassets.com/theme_assets/23449/ca73b72572a32d7a58422b28455ee2bb47f92c80.jpg">
-</p>
+</p>-->
 
 <h2>:wave: Hello, I'm Jeff!</h2>
 
