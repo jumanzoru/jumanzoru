@@ -2,10 +2,10 @@
   <img src="https://theme.zdassets.com/theme_assets/23449/ca73b72572a32d7a58422b28455ee2bb47f92c80.jpg">
 </p>-->
 
-<h2>:wave: Hello, I'm Jeff!</h2>
+<h2>:wave: Hi, I'm Jeff!</h2>
 
 💡 &nbsp;I like to explore new languages and technologies.</br>
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at UC San Diego.</br>
+🎓 &nbsp;I'm currently majoring in Mathematics-Computer Science at UC San Diego.</br>
 🌱 &nbsp;I'm on track to learn about the MERN Stack, Artificial Intelligence, and Software Development.
 
 <!--### Tech Stack-->
