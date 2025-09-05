@@ -15,13 +15,3 @@
 
 ### ⚙️ Tools & Technologies
 - React, Next.js, Node.js, PostgreSQL, Docker, AWS, Visual Studio Code, Git, GitHub, Markdown
-
----
-
-### 📌 Featured Projects
-- 🚧 [Triton Pathways](https://github.com/jumanzor/triton-pathways) — AI-powered UCSD course & club planner (Next.js · React · PostgreSQL · AWS)  
-- 🔍 [Lie Detector](https://github.com/jumanzor/lie-detector) — Naive Bayes classifier for truth vs misinformation  
-- 🌦 [Weather Predictor](https://github.com/jumanzor/weather-predictor) — Hidden Markov Model for climate forecasting  
-- 🏗 [Rosas Demo Website](https://github.com/jumanzor/rosas-demo) — Business web presence build (HTML · CSS · Vercel)  
-
----
