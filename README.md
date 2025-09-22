@@ -16,4 +16,4 @@
 
 ### ⚙️ Tools & Technologies
 - Visual Studio Code, Git, GitHub, Markdown
---Learning: React, SQL (PostgreSQL), Docker, AWS, 
+- Learning: React, SQL (PostgreSQL), Docker, AWS, 
