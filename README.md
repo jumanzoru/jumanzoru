@@ -8,11 +8,8 @@
 
 ---
 
-### Languages
-- Python, Java, JavaScript, C++, C, HTML/CSS | Learning: SQL, TypeScript
+**Languages**: Python, Java, JavaScript, C++, C, HTML/CSS | Learning: SQL, TypeScript
 
-### Technologies
-- NumPy, Pandas | Learning: PyTorch, React.js, PostgreSQL, Next.js, Konva, AWS, Figma
+**Technologies**: NumPy, Pandas | Learning: PyTorch, React.js, PostgreSQL, Next.js, Konva, AWS, Figma
 
-### Developer Tools
-- Git, GitHub, VS Code, Jupyter, Vercel | Learning: GitHub Actions
+**Developer Tools**:  Git, GitHub, VS Code, Jupyter, Vercel | Learning: GitHub Actions
