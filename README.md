@@ -11,9 +11,7 @@
 ### 🖥️ Languages
 - Python, Java, JavaScript, C++, C, HTML/CSS | Learning: SQL, TypeScript
 
----
-
-### Technologies
+### 🖥️ Technologies
 - NumPy, Pandas | Learning: PyTorch, React.js, PostgreSQL, Next.js, Konva, AWS, Figma
 
 ### 🖥️ Developer Tools
