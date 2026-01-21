@@ -2,9 +2,8 @@
 
 💡 &nbsp;Exploring AI, machine learning, and full-stack development.  
 🎓 &nbsp;Computer Science @ UC San Diego · Data Science & Mathematics double minor.  
-🚀 &nbsp;Currently building **Formula Fun**, an education mathematics game.  
-🔬 &nbsp;Researching **Machine Learning Interpretability** under Prof. Sanjoy Dasgupta.  
-🌱 &nbsp;Focused on learning MERN stack, cloud deployment (AWS/Docker), and trustworthy AI.  
+🚀 &nbsp;Currently building projects for UCSD's CSE Society & Triton Software Engineering.   
+🌱 &nbsp;Focused on learning MERN stack, cloud deployment (AWS/Docker), and AI.  
 
 ---
 
