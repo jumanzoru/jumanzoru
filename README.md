@@ -1,9 +1,8 @@
 <h2>👋 Hi, I'm Jeff!</h2>
 
-💡 &nbsp;Exploring AI, machine learning, and full-stack development.  
-🎓 &nbsp;Computer Science @ UC San Diego · Data Science & Mathematics double minor.  
-🚀 &nbsp;Currently building projects for UCSD's CSE Society & Triton Software Engineering.   
-🌱 &nbsp;Focused on learning MERN stack, cloud deployment (AWS/Docker), and AI.  
+💡 &nbsp;Exploring software engineering, machine learning (AI), and full-stack development.  
+🎓 &nbsp;Computer Science @ UC San Diego · Mathematics minor.  
+🚀 &nbsp;Currently building projects for UCSD's CSE Society, Triton Software Engineering, and Muir College Council. 
 
 ---
 
