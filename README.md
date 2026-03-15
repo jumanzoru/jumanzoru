@@ -1,8 +1,8 @@
 <h2>👋 Hi, I'm Jeff!</h2>
 
-🚀 &nbsp;Software Engineering Fellow @ Google (BASTA G-SWEP)  
-🎓 &nbsp;Computer Science @ UC San Diego · Mathematics Minor  
-💡 &nbsp;Building production-grade backend systems with a focus on observability, performance, and scalable architecture  
+- &nbsp;Software Engineering Fellow @ Google (BASTA G-SWEP)  
+- &nbsp;Computer Science @ UC San Diego · Mathematics Minor  
+- &nbsp;Building production-grade backend systems with a focus on observability, performance, and scalable architecture  
 
 ---
 
@@ -13,4 +13,4 @@
 ---
 
 📌 &nbsp;Currently building Pulsyon, an event-driven API observability platform under 1:1 mentorship with a Senior Software Engineer at Google  
-🛠 &nbsp;Also contributing to: Big Strategy Labs (advised by Google's Global Head of Strategy & AI) · Triton Software Engineering · Muir College Council  
+- &nbsp;Also contributing to: Big Strategy Labs (advised by Google's Global Head of Strategy & AI) · Triton Software Engineering · Muir College Council  
