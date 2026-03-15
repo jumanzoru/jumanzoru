@@ -1,6 +1,6 @@
 <h2>👋 Hi, I'm Jeff!</h2>
 
-&nbsp;Software Engineering Fellow @ Google (BASTA G-SWEP)  
+&nbsp;Software Engineering Fellow @ Google Software Engineer Program (BASTA G-SWEP)  
 &nbsp;Computer Science @ UC San Diego · Mathematics Minor  
 &nbsp;Building production-grade backend systems with a focus on observability, performance, and scalable architecture  
 
