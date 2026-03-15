@@ -12,5 +12,5 @@
 
 ---
 
-📌 &nbsp;Currently building an event-driven API observability platform under 1:1 mentorship with a Senior Software Engineer at Google  
+📌 &nbsp;Currently building Pulsyon, an event-driven API observability platform under 1:1 mentorship with a Senior Software Engineer at Google  
 🛠 &nbsp;Also contributing to: Big Strategy Labs (advised by Google's Global Head of Strategy & AI) · Triton Software Engineering · Muir College Council  
