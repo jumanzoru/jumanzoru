@@ -2,6 +2,7 @@
 
 &nbsp;SWE Fellow @ Google × BASTA  
 &nbsp;CS @ UC San Diego · Double Minor in Math & Cognitive Science  
+&nbsp;1x SWE Intern, 1x SWE Fellow, 2x University SWE  
 &nbsp;Building production-grade backend systems with a focus on observability, performance, and scalable architecture  
 
 ---
