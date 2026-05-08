@@ -1,4 +1,4 @@
-<h2>👋 hi, i'm jeff !</h2>
+<h2>👋 Hi, I'm Jeff !</h2>
 
 &nbsp;SWE Fellow @ BASTA G-SWEP
 &nbsp;CS @ UC San Diego · Double Minor in Math & Cognitive Science  
