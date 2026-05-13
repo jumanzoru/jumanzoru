@@ -8,8 +8,8 @@
 ---
 
 **Languages**: Python, Java, TypeScript, JavaScript, C++, C, SQL, HTML/CSS<br>
-**Technologies**: React, Next.js, Node.js, Express.js, Tailwind CSS, PyTorch, MongoDB | IP: PostgreSQL, Redis<br>
-**Developer Tools**: Git, GitHub Actions (CI/CD), VS Code, Jupyter, Vercel | IP: Docker, Google Cloud (Cloud Run)
+**Technologies**: React, Next.js, Node.js, Express.js, Tailwind CSS, PyTorch, MongoDB, PostgreSQL, Redis<br>
+**Developer Tools**: Git, GitHub Actions (CI/CD), VS Code, Jupyter, Vercel, Docker, Google Cloud (Cloud Run)
 
 ---
 
