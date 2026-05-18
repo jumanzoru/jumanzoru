@@ -1,6 +1,6 @@
 <h2>👋 Hi, I'm Jeff !</h2>
 
-&nbsp;SWE Fellow @ BASTA G-SWEP  
+&nbsp;BASTA × Google Software Engineer Program Fellow  
 &nbsp;CS @ UC San Diego · Double Minor in Math & Cognitive Science  
 &nbsp;1x SWE Intern, 1x SWE Fellow, 2x University SWE  
 &nbsp;Building production-grade backend systems with a focus on observability, performance, and scalable architecture  
