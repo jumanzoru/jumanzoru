@@ -1,8 +1,8 @@
 <h2>👋 Hi, I'm Jeff !</h2>
 
-&nbsp;BASTA × Google Software Engineer Program Fellow  
 &nbsp;CS @ UC San Diego · Double Minor in Math & Cognitive Science  
-&nbsp;1x SWE Intern, 1x SWE Fellow, 2x University SWE, 1x AI Fellow, 1x Contract SWE  
+&nbsp;CodePath × Anthropic Applied AI Engineering Program Fellow  
+&nbsp;1x SWE Intern, 1x SWE Fellow, 2x University SWE, 2x AI Fellow, 1x Contract SWE  
 &nbsp;Building production-grade backend systems with a focus on observability, performance, and scalable architecture  
 
 ---
