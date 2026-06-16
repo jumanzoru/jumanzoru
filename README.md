@@ -13,5 +13,5 @@
 
 ---
 
-📌 &nbsp;Building Pulsyon (event-driven API observability platform under 1:1 mentorship with a Senior SWE @ Google)<br>
-&nbsp;Contributing to: Big Strategy Labs (advised by Google's Global Head of Strategy & AI) · Triton Software Engineering · Muir College Council  
+📌 &nbsp;Built Pulsyon (event-driven API observability platform under 1:1 mentorship with a Senior SWE @ Google)<br>
+&nbsp;Recent Contributions: Big Strategy Labs (Platform for Google's Global Head of Strategy & AI) · Triton Software Engineering · Muir College Council  
