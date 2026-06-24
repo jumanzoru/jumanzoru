@@ -2,7 +2,7 @@
 
 &nbsp;CS @ UC San Diego · Double Minor in Math & Cognitive Science  
 &nbsp;SWE Intern @ San Diego Supercomputer Center (Research Data Services)   
-&nbsp;2x SWE Intern, 1x SWE Fellow, 2x University SWE, 2x AI Fellow, 1x Contract SWE  
+&nbsp;2x SWE Intern, 2x SWE Fellow, 2x University SWE, 2x AI Fellow, 1x Contract SWE  
 &nbsp;Building production-grade backend systems with a focus on observability, performance, and scalable architecture  
 
 ---
